@@ -5,9 +5,9 @@
 
 3. [Sự chuyển đổi từ OAM tập trung vào mạng lưới sang lấy khách hàng làm trung tâm](#sự-chuyển-đổi-từ-oam-tập-trung-vào-mạng-lưới-sang-lấy-khách-hàng-làm-trung-tâm)
 
-4. [End-to-end CEMC ](#cemc-từ-đầu-đến-cuối)
+4. [End-to-end ](#end-to-end-cemc)
 
-5. [Đánh giá end-to-end QoE ](#đánh-giá-qoe-từ-đầu-đến-cuối)
+5. [Đánh giá end-to-end QoE ]()
 
 6. [Hoàn thành các chức năng OAM](#hoàn-thành-các-chức-năng-oam)
 
