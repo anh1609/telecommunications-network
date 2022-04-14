@@ -5,7 +5,7 @@
 
 3. [Sự chuyển đổi từ OAM tập trung vào mạng lưới sang lấy khách hàng làm trung tâm](#sự-chuyển-đổi-từ-oam-tập-trung-vào-mạng-lưới-sang-lấy-khách-hàng-làm-trung-tâm)
 
-4. [CEMC từ đầu đến cuối](#cemc-từ-đầu-đến-cuối)
+4. [End-to-end CEMC ](#cemc-từ-đầu-đến-cuối)
 
 5. [Đánh giá end-to-end QoE ](#đánh-giá-qoe-từ-đầu-đến-cuối)
 
@@ -95,6 +95,7 @@ Mạng OAM liên quan đến việc khám phá, định vị và giải quyết 
 
 + Các mô-đun màu xanh lam ngang trong Hình 5 đại diện cho nền tảng chức năng và các mô-đun màu vàng dọc đại diện cho gói hỗ trợ dịch vụ. 
 + có khả năng mở rộng tốt quản lý QoE phù hợp với trọng tâm quản lý dịch vụ hiện tại của nhà khai thác và nhu cầu phát triển dịch vụ trong tương lai.
+
 
 
 
