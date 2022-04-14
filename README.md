@@ -7,7 +7,7 @@
 
 4. [CEMC từ đầu đến cuối](#cemc-từ-đầu-đến-cuối)
 
-5. [Đánh giá QoE từ đầu đến cuối](#đánh-giá-qoe-từ-đầu-đến-cuối)
+5. [Đánh giá end-to-end QoE ](#đánh-giá-qoe-từ-đầu-đến-cuối)
 
 6. [Hoàn thành các chức năng OAM](#hoàn-thành-các-chức-năng-oam)
 
@@ -49,7 +49,7 @@ một số mạng chuyên dụng  có hệ thống quản lý phần tử độc
 
 Quản lý trải nghiệm khách hàng (CEM) là OAM mạng hướng đến khách hàng và dịch vụ. Quản lý trải nghiệm dịch vụ được phân biệt theo từng đối tượng khách hàng và dịch vụ khác nhau và là công cụ hữu hiệu để các nhà khai thác tối ưu hóa hoạt động mạng của họ.
 
-### CEMC từ đầu đến cuối
+### end-to-end CEMC 
 
 + Mạng OAM được tối ưu hóa bằng cách giám sát và quản lý QoE và QoS.
 
@@ -63,7 +63,7 @@ Quản lý trải nghiệm khách hàng (CEM) là OAM mạng hướng đến kh�
     1. đo lường QoE từ quan điểm của khách hàng.    
 +  CEM được sử dụng để quản lý QoE của khách hàng
 
-### Đánh giá QoE từ đầu đến cuối
+### Đánh giá end-to- end QoE 
 
 ![](https://res-www.zte.com.cn/mediares/magazine/publication/tech_en/article/201203/307247/W020120521638503088839.jpg?la=en)
 
